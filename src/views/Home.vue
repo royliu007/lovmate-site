@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <l-header></l-header>abc
+    <l-header></l-header>abc123
     <l-footer></l-footer>
   </div>
 </template>
